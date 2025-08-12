@@ -47,10 +47,10 @@ Estou explorando uma ampla gama de conceitos SQL, incluindo:
 ## 🗂️ Estrutura do Repositório
 
 ```
-📁 exercises/          # Exercícios organizados por tópico
+📁 desafios/          # Exercícios organizados por tópico
 📁 projects/           # Projetos práticos desenvolvidos
 📁 notes/              # Anotações e resumos importantes
-📁 datasets/           # Conjuntos de dados utilizados
+📁 dataBase/           # Conjuntos de dados utilizados
 📄 queries.sql         # Consultas SQL importantes
 ```
 
