@@ -64,9 +64,9 @@ Cada pasta contém arquivos SQL comentados com explicações detalhadas sobre:
 
 ## 📈 Progresso
 
-🟢 **Concluído** | 🟡 **Em progresso** | ⚪ **Planejado**
+ 🟡 **Em progresso** |
 
-Este é um projeto vivo que será atualizado conforme avanço no curso!
+Este é um projeto vivo que será atualizado conforme avanço no curso! O status será mudado ao decorrer do aprendizado!
 
 ## 🤝 Contribuições
 
